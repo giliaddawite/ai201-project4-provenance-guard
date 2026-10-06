@@ -12,6 +12,9 @@ appealable, and every decision and appeal is written to a structured audit log.
 Design document: [`planning.md`](planning.md) (architecture diagram, signals,
 thresholds, labels, appeals, edge cases, AI Tool Plan, decision log).
 
+Walkthrough video: [Loom demo](https://www.loom.com/share/4a04df187c444d739144c594d5f45677)
+(submission, appeal, rate limiting, and two design decisions, end to end).
+
 ---
 
 ## Quick start
