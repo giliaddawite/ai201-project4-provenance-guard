@@ -1,0 +1,415 @@
+{
+ "h01_austen_pride": {
+  "ai_probability": 0.3,
+  "rationale": "Irregular phrasing, misquotations, and minor errors suggest human parody rather than polished AI output.",
+  "indicators": [
+   "misquoted opening",
+   "odd phrasing"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h02_dickens_two_cities": {
+  "ai_probability": 0.1,
+  "rationale": "Recognizable Dickens opening, classic literature evidence of human origin; lacks AI uniformity, no tidy arc, contains irregular phrasing.",
+  "indicators": [
+   "classic passage",
+   "no AI hallmarks"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h03_twain_huck": {
+  "ai_probability": 0.2,
+  "rationale": "Irregular grammar, colloquial contractions, inconsistent punctuation, and narrative digressions suggest human authorship.",
+  "indicators": [
+   "irregular grammar",
+   "colloquial contractions",
+   "inconsistent punctuation"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h04_poe_telltale": {
+  "ai_probability": 0.05,
+  "rationale": "Direct excerpt from Poe's classic story; known human literature, archaic style, and period spelling indicate human origin.",
+  "indicators": [
+   "classic literature excerpt",
+   "archaic diction"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h06_dickinson_death": {
+  "ai_probability": 0.3,
+  "rationale": "Irregular punctuation, homage to Dickinson, creative deviations suggest human author",
+  "indicators": [
+   "irregular punctuation",
+   "parody of known poem"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h07_thoreau_walden": {
+  "ai_probability": 0.3,
+  "rationale": "Irregular, rambling run‑on sentence with idiosyncratic phrasing and archaic style suggests human authorship.",
+  "indicators": [
+   "run‑on sentence",
+   "idiosyncratic phrasing"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h08_lincoln_gettysburg": {
+  "ai_probability": 0.05,
+  "rationale": "Classic, well-known historic speech by Lincoln; recognizable human-authored text.",
+  "indicators": [
+   "known historic speech",
+   "archaic diction"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h09_bronte_jane_eyre": {
+  "ai_probability": 0.05,
+  "rationale": "Exact excerpt from a known 19th‑century novel (Jane Eyre); classic published text is strong human evidence.",
+  "indicators": [
+   "known classic passage",
+   "archaic diction"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h10_carroll_alice": {
+  "ai_probability": 0.05,
+  "rationale": "Exact excerpt from a classic published novel, clear evidence of human authorship.",
+  "indicators": [
+   "classic published work",
+   "known literary source"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h11_darwin_grandeur": {
+  "ai_probability": 0.05,
+  "rationale": "Direct excerpt from Darwin's 1859 work, classic human prose",
+  "indicators": [
+   "classic published passage",
+   "archaic diction"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h12_poe_annabel_lee": {
+  "ai_probability": 0.35,
+  "rationale": "Irregular phrasing and derivative of a classic poem suggest human authorship",
+  "indicators": [
+   "odd phrasing",
+   "derivative of known poem"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h13_douglass_narrative": {
+  "ai_probability": 0.15,
+  "rationale": "19th‑century slave narrative style with period diction and specific historical details",
+  "indicators": [
+   "archaic diction",
+   "historical context"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h14_fitzgerald_gatsby": {
+  "ai_probability": 0.62,
+  "rationale": "Evenly structured, polished prose with balanced clauses and abstract phrasing; occasional odd word choices suggest AI generation.",
+  "indicators": [
+   "balanced constructions",
+   "odd phrasing"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h15_course_ramen": {
+  "ai_probability": 0.3,
+  "rationale": "Informal tone with inconsistent capitalization, slang, and irregular punctuation suggests human authorship.",
+  "indicators": [
+   "inconsistent capitalization",
+   "colloquial slang"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a01_blog_productivity": {
+  "ai_probability": 0.78,
+  "rationale": "Polished, evenly structured advice with uniform sentence length and no idiosyncratic errors, typical of AI‑generated blog content.",
+  "indicators": [
+   "uniform sentence length",
+   "tidy argumentative arc"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a03_story_lighthouse": {
+  "ai_probability": 0.71,
+  "rationale": "Polished prose, repeated stock imagery, uniform sentence rhythm, no idiosyncratic errors suggest AI generation.",
+  "indicators": [
+   "stock imagery",
+   "uniform sentence length"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a04_story_detective": {
+  "ai_probability": 0.66,
+  "rationale": "Polished noir clichés, balanced sentences, stock imagery, no idiosyncratic errors suggest AI; slight variation but overall too tidy.",
+  "indicators": [
+   "stock noir imagery",
+   "uniform sentence rhythm"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a05_poem_autumn": {
+  "ai_probability": 0.72,
+  "rationale": "Consistently polished couplets, stock autumn imagery, balanced phrasing, and lack of idiosyncratic punctuation suggest AI generation.",
+  "indicators": [
+   "uniform line length",
+   "stock imagery",
+   "balanced constructions"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a06_poem_villanelle": {
+  "ai_probability": 0.62,
+  "rationale": "Repetitive refrains, uniformly structured stanzas, and slightly forced imagery suggest AI generation, though occasional odd phrasing could be human.",
+  "indicators": [
+   "repetitive refrain",
+   "balanced constructions",
+   "forced imagery"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a07_blog_human_voice": {
+  "ai_probability": 0.25,
+  "rationale": "Informal, uneven sentence lengths, personal anecdotes, and quirky humor suggest human authorship; lacks AI hallmarks like overly balanced phrasing or uniform rhythm.",
+  "indicators": [
+   "varying sentence length",
+   "colloquial humor"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a08_blog_lowercase": {
+  "ai_probability": 0.35,
+  "rationale": "Informal slang, inconsistent capitalization, and run‑on style suggest human authorship.",
+  "indicators": [
+   "inconsistent capitalization",
+   "slang ('omg')"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a09_story_child_voice": {
+  "ai_probability": 0.71,
+  "rationale": "Uniform simple sentences, tidy arc, no errors, and formulaic phrasing suggest AI; slight odd phrasing is minor.",
+  "indicators": [
+   "uniform sentence length",
+   "tidy narrative arc"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a10_essay_ai_ethics": {
+  "ai_probability": 0.86,
+  "rationale": "Uniform sentence length, polished style, balanced abstract phrasing, tidy argumentative arc typical of AI‑generated blog prose.",
+  "indicators": [
+   "uniform sentence length",
+   "balanced abstract phrasing"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a11_blog_ramen_review": {
+  "ai_probability": 0.4,
+  "rationale": "Balanced, informal review with specific details but uniform sentence structure and tidy summary suggest possible AI; however personal anecdote and slight irregularities lean toward human.",
+  "indicators": [
+   "uniform sentence length",
+   "generic phrasing"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a12_story_grandmother": {
+  "ai_probability": 0.82,
+  "rationale": "Uniform, lengthy sentences with balanced clauses and polished, stock imagery; no irregularities or dialect, suggesting AI generation.",
+  "indicators": [
+   "uniform sentence length",
+   "polished imagery",
+   "balanced constructions"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a13_poem_haiku_sequence": {
+  "ai_probability": 0.71,
+  "rationale": "Uniform haiku-like stanzas, polished language, repeated stock imagery, and balanced rhythm suggest AI generation; lacks irregularities or personal quirks typical of human poets.",
+  "indicators": [
+   "consistent haiku structure",
+   "stock imagery"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a14_blog_remote_work": {
+  "ai_probability": 0.72,
+  "rationale": "Polished, uniformly complex sentences with balanced constructions and abstract phrasing, lacking personal idiosyncrasies, suggest AI generation.",
+  "indicators": [
+   "balanced constructions",
+   "uniform sentence length"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a15_story_sea": {
+  "ai_probability": 0.78,
+  "rationale": "Polished, ornate prose with balanced clauses, stock maritime imagery, and uniform long sentence structure typical of AI generation.",
+  "indicators": [
+   "stock imagery",
+   "uniform sentence length"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "m01_productivity_edited": {
+  "ai_probability": 0.62,
+  "rationale": "Polished, evenly structured advice with generic phrasing and balanced sentences; personal details are superficial, typical of AI‑generated blog content.",
+  "indicators": [
+   "uniform sentence length",
+   "generic advice phrasing"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "m02_lighthouse_edited": {
+  "ai_probability": 0.45,
+  "rationale": "Mix of stock imagery and balanced prose suggests AI, but irregular phrasing and specific details hint at human author.",
+  "indicators": [
+   "stock imagery",
+   "irregular phrasing"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "m03_ramen_edited": {
+  "ai_probability": 0.25,
+  "rationale": "Casual voice with colloquial filler, minor grammatical slip, and personal anecdote suggest human authorship; lacks the polished uniformity typical of AI.",
+  "indicators": [
+   "colloquial filler",
+   "minor grammatical slip"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "m04_remote_work_edited": {
+  "ai_probability": 0.35,
+  "rationale": "Fragmented sentence and abrupt shift suggest human idiosyncrasy",
+  "indicators": [
+   "sentence fragment",
+   "abrupt shift"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "m05_child_voice_edited": {
+  "ai_probability": 0.6,
+  "rationale": "Uniform simple sentences, tidy narrative arc, no idiosyncratic punctuation or digressions suggest AI; short length keeps uncertainty moderate.",
+  "indicators": [
+   "consistent sentence length",
+   "tidy narrative arc"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "m06_cooking_week_edited": {
+  "ai_probability": 0.35,
+  "rationale": "Informal tone, varied sentence lengths, parenthetical aside, and quirky humor show human-like irregularities; structure is simple but not overly polished.",
+  "indicators": [
+   "varying sentence length",
+   "parenthetical aside",
+   "colloquial humor"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "m07_course_edited_ai": {
+  "ai_probability": 0.68,
+  "rationale": "Even, polished sentences with generic overview and no personal anecdotes suggest AI; lacks irregularities or distinctive voice.",
+  "indicators": [
+   "balanced sentence length",
+   "generic overview"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "h05_whitman_song": {
+  "ai_probability": 0.35,
+  "rationale": "Irregular syntax, archaic diction, and uneven phrasing suggest human authorship; lacks the polished uniformity typical of AI-generated poetry.",
+  "indicators": [
+   "irregular syntax",
+   "archaic diction"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ },
+ "a02_blog_travel": {
+  "ai_probability": 0.75,
+  "rationale": "Polished, uniformly structured prose with stock travel imagery and an abrupt cutoff suggest AI generation.",
+  "indicators": [
+   "stock imagery",
+   "uniform sentence length",
+   "abrupt cutoff"
+  ],
+  "available": true,
+  "model": "openai/gpt-oss-120b",
+  "error": null
+ }
+}

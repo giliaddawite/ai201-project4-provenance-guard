@@ -1,0 +1,44 @@
+[
+  {
+    "id": "m01_productivity_edited",
+    "source": "a01_blog_productivity (Groq) hand-edited: personal aside added, two sentences broken up, tidy closing line removed, one typo left in",
+    "content_type": "blog",
+    "text": "Working from home offers flexibility, but maintaining focus can be challenging. I learned this the hard way in March. Start each day by creating a clear schedule: set a realistic wake-up time (mine is 7:40, not 6, let's be honest), outline tasks, and include short breaks. Designate a dedicated workspace free from distractions; even a small corner with a comfortable chair and good lighting signals to your brain that it's time to work. I use the Pomodoro technique, 25 minutes on, five off. It works until it doesn't. Limit social media by turning off notifications or using website blockers during core hours. Communicate boundaries with family or housemates, explaining when interruptions are not acceptable. My partner still forgets. Prioritize high-impact tasks early, when energy levels are highest, and save routine emails for later. Finally, end the day with a brief review: note accomplishments, adjust tomorrow's plan, and physically step away from the desk."
+  },
+  {
+    "id": "m02_lighthouse_edited",
+    "source": "a03_story_lighthouse (Groq) hand-edited: purple phrases cut, one sentence rewritten in plainer voice, a fragment added, ending changed",
+    "content_type": "story",
+    "text": "The sea had been a relentless whisper all night. Inside the stone tower, Eli tended the lamp the way he always did, polishing the brass and adjusting the wick while the wind sang through the cracks. The fog rolled in thick and silver, swallowing the horizon until the world became a muted canvas of gray. He paused, breath fogging the glass of the lantern room, when a splash against the rocks caught his attention. A crate. Wooden, battered, half buried in the sand. Curiosity pried him from his duties; he descended the spiral stairs, boots echoing on the wet stones, swearing at the third step that had been loose since October. Inside the crate lay a single envelope, sealed with crimson wax and stamped with a crest he did not recognize. The paper inside was yellowed, the ink faded. He read it twice and then sat down on the sand, which he had never once done in eleven years."
+  },
+  {
+    "id": "m03_ramen_edited",
+    "source": "a11_blog_ramen_review (Groq) hand-edited: casual register pushed harder, specifics added, two sentences merged, closer rewritten",
+    "content_type": "blog",
+    "text": "I walked into the place with high hopes after scrolling through Instagram for like a week, only to leave feeling a bit underwhelmed. The decor is cute (industrial lights, reclaimed wood tables, you know the look) but the ramen itself didn't live up to the hype. The broth was thinner than expected, more like a seasoned stock than the rich pork-laden soup I'd been craving since Tuesday. Noodles were decent, springy enough, but they got soggy halfway through my bowl and I eat fast. The pork belly was tasty but served in one skimpy slice, and the soft-boiled egg was over-cooked, its yolk gone chalky, which is honestly the one thing a ramen place can't get wrong. Service was friendly, though slow during the lunch rush. $19 before tip. I'd go back if someone else was paying."
+  },
+  {
+    "id": "m04_remote_work_edited",
+    "source": "a14_blog_remote_work (Groq) hand-edited: abstractions replaced with concrete details, one long sentence split into three, final clause deleted",
+    "content_type": "blog",
+    "text": "Remote work has reshaped how I measure productivity, blurring the line between professional ambition and personal comfort. In the quiet of my home office, which is the end of the kitchen table nearest the radiator, I discover an unexpected intimacy with tasks that once felt distant. The same solitude can amplify doubts that would otherwise be drowned by office chatter. The freedom to schedule breaks around a sunrise or a child's laugh feels empowering. The absence of spontaneous hallway conversations sometimes erodes the sense of belonging that fuels collaboration. I find myself negotiating boundaries, drawing firm start and stop times to protect mental space, while also confronting the temptation to be constantly available. I failed at this yesterday. Answered a Slack message at 11:40 pm about a font. This tension forces a continual reassessment of what success looks like."
+  },
+  {
+    "id": "m05_child_voice_edited",
+    "source": "a09_story_child_voice (Groq) hand-edited: several short sentences joined with 'and', a real kid-logic detail added, odd last sentence fixed",
+    "content_type": "story",
+    "text": "I woke up early and my mouth felt funny. I could feel a wiggle. My front tooth was loose and Mom said it would fall soon. I tried to bite an apple and the tooth moved a little and I was scared so I told my brother. He laughed and said it was cool. At school I showed my friends and they all stared and Priya said hers came out in a hot dog. The teacher asked if I was okay. I said yes. At lunch I chewed slowly but suddenly the tooth popped out. It landed on the floor with a tiny thud. I picked it up. It was small and white and a little bit bloody. Mom said I could put it under my pillow. I felt proud. That night I closed my eyes but I kept opening them to check. I heard a soft tap on the pillow. A coin was there. I am going to keep it forever."
+  },
+  {
+    "id": "m06_cooking_week_edited",
+    "source": "a07_blog_human_voice (Groq, already prompted to sound human) hand-edited: day-by-day structure broken, two days dropped, one sentence left as a run-on",
+    "content_type": "blog",
+    "text": "I survived my first week learning to cook, and it's been a chaotic, delicious mess. Monday I boiled water and managed a decent pasta. Tiny victory, right? Tuesday was a disaster: I tried a stir-fry, tossed in everything, and ended up with a smoky kitchen and a pan I'm still soaking. (Note to self: keep the window open.) By Wednesday I finally nailed scrambled eggs, fluffy and buttery, and felt like a chef for a solid thirty seconds before I dropped the plate. Then there was the soup, which I will not discuss. Friday's triumph was a homemade pizza, crust surprisingly crispy, sauce bright, cheese melting like a dream, and my roommate ate half of it standing up at the counter which I'm choosing to take as a compliment. Sunday I'm planning to tackle a curry. Hopefully with fewer flames."
+  },
+  {
+    "id": "m07_course_edited_ai",
+    "source": "Course-supplied 'borderline: lightly edited AI output' sample",
+    "content_type": "blog",
+    "text": "I've been thinking a lot about remote work lately. There are genuine tradeoffs — flexibility and no commute on one side, isolation and blurred work-life boundaries on the other. Studies show productivity varies widely by individual and role type."
+  }
+]
